@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/KaisBoulakhlas/four-card-components.git]
-- Live Site URL: [https://four-card-component-grid.netlify.app](https://your-live-site-url.com)
+- Live Site URL: [https://four-card-component-grid.netlify.app]
 
 ## My process
 
